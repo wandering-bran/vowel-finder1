@@ -2,6 +2,8 @@
 /*Brandon M Bartlett
 vowel-finder1
 c++ returns vowels in a string*/
+
+
 #include <iostream>
 #include <string>
 
